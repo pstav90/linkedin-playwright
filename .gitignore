@@ -1,0 +1,17 @@
+.env
+.env.local
+*.credentials.json
+service-account*.json
+google-credentials.json
+browser-profile/
+.playwright/
+node_modules/
+dist/
+output/*.json
+output/*.md
+!output/.gitkeep
+data/*.csv
+data/*.json
+!data/.gitkeep
+config/*.local.json
+.DS_Store

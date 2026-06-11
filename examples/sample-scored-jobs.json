@@ -1,0 +1,29 @@
+[
+  {
+    "company": "Example AI Company",
+    "title": "Principal Product Manager, AI Agents",
+    "location": "San Francisco, CA",
+    "url": "https://www.linkedin.com/jobs/view/0000000000/",
+    "source": "LinkedIn: AI product leadership",
+    "jdText": "Lead product strategy for AI agent workflows across customer-facing and internal tools.",
+    "jdSynopsis": "This role owns product strategy for AI agent workflows, including roadmap definition, customer discovery, launch execution, and cross-functional measurement.",
+    "dateFound": "2026-01-01T00:00:00.000Z",
+    "roleId": "example12345",
+    "roleType": "Product",
+    "level": "Principal/Staff",
+    "totalScore": 88,
+    "fitScore": 28,
+    "financialUpsideScore": 22,
+    "compensationScore": 17,
+    "scopeScore": 9,
+    "prestigeScore": 7,
+    "accessScore": 5,
+    "manualScoreOverride": "",
+    "finalScore": 88,
+    "classification": "Potential",
+    "scoreRationale": "strong background fit; high-upside domain; senior compensation signal; warm access signal present",
+    "recommendedAction": "Review this week: validate company stage and decide whether to pursue directly or through a warm intro.",
+    "resumeAngle": "Emphasize the experience from your profile that best matches the role's domain, level, and business model.",
+    "outreachAngle": "Lead with a concise thesis on how your relevant product experience maps to the company's current product surface."
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "linkedin": {
+    "enabled": true,
+    "queries": [
+      {
+        "name": "AI product leadership",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=principal%20product%20manager%20AI"
+      },
+      {
+        "name": "Product growth",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=product%20manager%20growth"
+      },
+      {
+        "name": "Forward deployed product",
+        "url": "https://www.linkedin.com/jobs/search/?keywords=forward%20deployed%20product"
+      }
+    ],
+    "maxJobsPerQuery": 15
+  }
+}
