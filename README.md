@@ -2,7 +2,7 @@
 
 `career-agent` is a local TypeScript job-search pipeline that sources roles from LinkedIn with Playwright, scores them against a configurable candidate profile, writes reviewable local output, and can sync reviewed roles into a Google Sheet CRM.
 
-It is designed to be edited and extended by Codex, Claude Code, Cloud Code, or a human developer while keeping credentials, browser sessions, and personal data out of GitHub.
+It is designed to be edited and extended by Codex, Claude Code, or a human developer while keeping credentials, browser sessions, and personal data out of GitHub.
 
 ## What It Does
 
